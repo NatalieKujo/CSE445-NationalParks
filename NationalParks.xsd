@@ -15,7 +15,7 @@
 
 							<!-- At least one phone number is required -->
 							<xs:element name="Phone" type="xs:string"
-										minOccurs="1"
+										minOccurs="0"
 										maxOccurs="unbounded"/>
 
 							<!-- Each park has one address -->
