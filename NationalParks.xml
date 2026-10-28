@@ -43,7 +43,6 @@
 	<!-- Zion National Park -->
 	<NationalPark>
 		<Name>Zion</Name>
-		<Phone>435-772-3256</Phone>
 		<Address NearestAirport="St. George Regional Airport">
 			<Number>1</Number>
 			<Street>Zion Park Boulevard</Street>
